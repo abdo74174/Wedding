@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login & Sign Up</title>
+    <style>
+        /* Global Styles */
+        body {
+            font-family: "Arial", sans-serif;
+            margin: 0;
+            padding: 0;
+            background-image: url('./img/wed2.jpg'); /* صورة الخلفية */
+            background-size: cover;
+            background-position: center;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        /* Container */
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+        }
+
+        /* Form Container */
+        .form-container {
+            background-color: rgba(255, 255, 255, 0.1); /* جعل الحاوية شبه شفافة */
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3); /* ظل الحاوية */
+            width: 300px;
+            text-align: center;
+        }
+
+        .form-container h1 {
+            font-family: "Diwani Letter", cursive; /* خط الرقعة */
+            font-size: 36px;
+            color: #ffffff; /* لون الخط الأبيض */
+            margin-bottom: 20px;
+            animation: colorChange 2s infinite alternate; /* حركة تغيير الألوان */
+        }
+
+        /* Animation for Motion */
+        @keyframes colorChange {
+            0% {
+                color: #ffffff; /* الأبيض */
+                text-shadow: 0 0 10px #ffffff;
+            }
+            50% {
+                color: #ff6347; /* أحمر فاتح */
+                text-shadow: 0 0 15px #ff6347;
+            }
+            100% {
+                color: #ffd700; /* ذهبي */
+                text-shadow: 0 0 20px #ffd700;
+            }
+        }
+
+        /* Input Fields */
+        form input {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            border: 2px solid transparent; /* إزالة الحدود */
+            background-color: rgba(255, 255, 255, 0.7); /* خلفية شفافة للحقول */
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* ظل خفيف */
+            border-radius: 5px;
+            font-size: 16px;
+            outline: none;
+        }
+
+        /* Buttons */
+        .btn {
+            width: 100%;
+            padding: 10px;
+            background-color: #4CAF50; /* لون الزر */
+            color: #fff;
+            font-size: 18px;
+            font-family: "Arial", sans-serif;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+
+        .btn:hover {
+            background-color: #45a049; /* تغيير اللون عند التمرير */
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+        }
+
+        /* Social Buttons */
+        .btn-social {
+            width: 100%;
+            margin-top: 10px;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            font-family: "Arial", sans-serif;
+            transition: all 0.3s ease;
+        }
+
+        .btn-facebook {
+            background-color: #3b5998;
+            color: #fff;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+
+        .btn-facebook:hover {
+            background-color: #2d4373;
+        }
+
+        .btn-google {
+            background-color: #db4437;
+            color: #fff;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+
+        .btn-google:hover {
+            background-color: #c23321;
+        }
+
+        /* Home Button */
+        .btn-home {
+            margin-top: 20px;
+            background-color: #ff6347; /* لون الزر */
+            color: #fff;
+            padding: 10px 20px;
+            border-radius: 5px;
+            text-decoration: none;
+            font-size: 16px;
+            font-family: "Arial", sans-serif;
+            display: inline-block;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            transition: all 0.3s ease;
+        }
+
+        .btn-home:hover {
+            background-color: #bb9a95; /* تغيير اللون عند التمرير */
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+        }
+
+        /* Links */
+        .link {
+            display: block;
+            margin-top: 10px;
+            color: #ffffff;
+            text-decoration: underline;
+            font-size: 14px;
+            animation: colorChange 2s infinite alternate; /* تطبيق حركة الألوان */
+        }
+
+        /* Privacy Policy */
+        .privacy {
+            font-size: 14px;
+            margin-top: 10px;
+            color: #ffffff;
+        }
+
+        .privacy a {
+            color: #926624; /* لون مميز للرابط */
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Login Form -->
+        <div class="form-container" id="loginPage">
+            <h1>Login</h1>
+            <form id="loginForm">
+                <input type="email" placeholder="Email" required>
+                <input type="password" id="loginPassword" placeholder="Password" required minlength="8">
+                <button type="submit" class="btn">Login</button>
+                <a href="#" class="link" id="goToSignUp">Don't have an account? Sign Up</a>
+                <a href="wedding.html" class="btn-home">Home</a>
+                <button type="button" class="btn-social btn-facebook" id="facebookLogin">Login with Facebook</button>
+                <button type="button" class="btn-social btn-google" id="googleLogin">Login with Google</button>
+            </form>
+        </div>
+
+        <!-- Sign Up Form -->
+        <div class="form-container" id="signupPage" style="display: none;">
+            <h1>Sign Up</h1>
+            <form id="signupForm">
+                <input type="text" placeholder="Username" required>
+                <input type="email" placeholder="Email" required>
+                <input type="password" id="signupPassword" placeholder="Password (8+ characters)" required minlength="8">
+                <button type="submit" class="btn">Sign Up</button>
+                <p class="privacy">By signing up, you agree to our <a href="#">Privacy Policy</a> and <a href="#">Terms of Service</a>.</p>
+                <a href="#" class="link" id="goToLogin">Already have an account? Login</a>
+                <a href="wedding.html" class="btn-home">Home</a>
+            </form>
+        </div>
+    </div>
+
+    <script>
+        // التنقل بين صفحات Login و Sign Up
+        document.getElementById("goToSignUp").addEventListener("click", function(e) {
+            e.preventDefault();
+            document.getElementById("loginPage").style.display = "none";
+            document.getElementById("signupPage").style.display = "block";
+        });
+
+        document.getElementById("goToLogin").addEventListener("click", function(e) {
+            e.preventDefault();
+            document.getElementById("signupPage").style.display = "none";
+            document.getElementById("loginPage").style.display = "block";
+        });
+
+        // التحقق من كلمة المرور
+        document.getElementById("signupForm").addEventListener("submit", function(e) {
+            const password = document.getElementById("signupPassword").value;
+            if (password.length < 8) {
+                alert("Password must be at least 8 characters!");
+                e.preventDefault();
+            }
+        });
+
+        // وظائف أزرار Facebook و Google
+        document.getElementById("facebookLogin").addEventListener("click", function() {
+            alert("Facebook login clicked! Connect with Facebook SDK here.");
+        });
+
+        document.getElementById("googleLogin").addEventListener("click", function() {
+            alert("Google login clicked! Connect with Google SDK here.");
+        });
+    </script>
+</body>
+</html>

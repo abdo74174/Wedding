@@ -1,0 +1,530 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\projects\\grand\\Wedding\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED88ED8-A039-4C2A-BE8D-6B51C702F131}|Wedding.csproj|f:\\projects\\grand\\wedding\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2ED88ED8-A039-4C2A-BE8D-6B51C702F131}|Wedding.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED88ED8-A039-4C2A-BE8D-6B51C702F131}|Wedding.csproj|f:\\projects\\grand\\wedding\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2ED88ED8-A039-4C2A-BE8D-6B51C702F131}|Wedding.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED88ED8-A039-4C2A-BE8D-6B51C702F131}|Wedding.csproj|f:\\projects\\grand\\wedding\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2ED88ED8-A039-4C2A-BE8D-6B51C702F131}|Wedding.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED88ED8-A039-4C2A-BE8D-6B51C702F131}|Wedding.csproj|f:\\projects\\grand\\wedding\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED88ED8-A039-4C2A-BE8D-6B51C702F131}|Wedding.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED88ED8-A039-4C2A-BE8D-6B51C702F131}|Wedding.csproj|f:\\projects\\grand\\wedding\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED88ED8-A039-4C2A-BE8D-6B51C702F131}|Wedding.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED88ED8-A039-4C2A-BE8D-6B51C702F131}|Wedding.csproj|f:\\projects\\grand\\wedding\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2ED88ED8-A039-4C2A-BE8D-6B51C702F131}|Wedding.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED88ED8-A039-4C2A-BE8D-6B51C702F131}|Wedding.csproj|f:\\projects\\grand\\wedding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED88ED8-A039-4C2A-BE8D-6B51C702F131}|Wedding.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\projects\\grand\\Wedding\\Data\\Migrations\\20241229010853_dddwSssa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20241229010853_dddwSssa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED88ED8-A039-4C2A-BE8D-6B51C702F131}|Wedding.csproj|f:\\projects\\grand\\wedding\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2ED88ED8-A039-4C2A-BE8D-6B51C702F131}|Wedding.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED88ED8-A039-4C2A-BE8D-6B51C702F131}|Wedding.csproj|f:\\projects\\grand\\wedding\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED88ED8-A039-4C2A-BE8D-6B51C702F131}|Wedding.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\projects\\grand\\Wedding\\Data\\Migrations\\20241229001630_dddwSs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20241229001630_dddwSs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED88ED8-A039-4C2A-BE8D-6B51C702F131}|Wedding.csproj|f:\\projects\\grand\\wedding\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2ED88ED8-A039-4C2A-BE8D-6B51C702F131}|Wedding.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED88ED8-A039-4C2A-BE8D-6B51C702F131}|Wedding.csproj|f:\\projects\\grand\\wedding\\views\\wedding\\bookwedding.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2ED88ED8-A039-4C2A-BE8D-6B51C702F131}|Wedding.csproj|solutionrelative:views\\wedding\\bookwedding.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED88ED8-A039-4C2A-BE8D-6B51C702F131}|Wedding.csproj|f:\\projects\\grand\\wedding\\views\\wedding\\cardcs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2ED88ED8-A039-4C2A-BE8D-6B51C702F131}|Wedding.csproj|solutionrelative:views\\wedding\\cardcs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED88ED8-A039-4C2A-BE8D-6B51C702F131}|Wedding.csproj|f:\\projects\\grand\\wedding\\views\\wedding\\confirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2ED88ED8-A039-4C2A-BE8D-6B51C702F131}|Wedding.csproj|solutionrelative:views\\wedding\\confirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED88ED8-A039-4C2A-BE8D-6B51C702F131}|Wedding.csproj|f:\\projects\\grand\\wedding\\wwwroot\\css\\confirmationr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED88ED8-A039-4C2A-BE8D-6B51C702F131}|Wedding.csproj|solutionrelative:wwwroot\\css\\confirmationr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\projects\\grand\\Wedding\\Data\\Migrations\\20241228231813_dddwS.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20241228231813_dddwS.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED88ED8-A039-4C2A-BE8D-6B51C702F131}|Wedding.csproj|f:\\projects\\grand\\wedding\\controllers\\weddingcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED88ED8-A039-4C2A-BE8D-6B51C702F131}|Wedding.csproj|solutionrelative:controllers\\weddingcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED88ED8-A039-4C2A-BE8D-6B51C702F131}|Wedding.csproj|f:\\projects\\grand\\wedding\\models\\weddingbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED88ED8-A039-4C2A-BE8D-6B51C702F131}|Wedding.csproj|solutionrelative:models\\weddingbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\projects\\grand\\Wedding\\Data\\Migrations\\20241228230107_ddd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20241228230107_ddd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED88ED8-A039-4C2A-BE8D-6B51C702F131}|Wedding.csproj|f:\\projects\\grand\\wedding\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2ED88ED8-A039-4C2A-BE8D-6B51C702F131}|Wedding.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED88ED8-A039-4C2A-BE8D-6B51C702F131}|Wedding.csproj|f:\\projects\\grand\\wedding\\data\\migrations\\20241228212750_ssd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED88ED8-A039-4C2A-BE8D-6B51C702F131}|Wedding.csproj|solutionrelative:data\\migrations\\20241228212750_ssd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED88ED8-A039-4C2A-BE8D-6B51C702F131}|Wedding.csproj|f:\\projects\\grand\\wedding\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED88ED8-A039-4C2A-BE8D-6B51C702F131}|Wedding.csproj|solutionrelative:data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED88ED8-A039-4C2A-BE8D-6B51C702F131}|Wedding.csproj|f:\\projects\\grand\\wedding\\data\\migrations\\20241228212640_ss.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED88ED8-A039-4C2A-BE8D-6B51C702F131}|Wedding.csproj|solutionrelative:data\\migrations\\20241228212640_ss.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED88ED8-A039-4C2A-BE8D-6B51C702F131}|Wedding.csproj|f:\\projects\\grand\\wedding\\data\\migrations\\00000000000000_createidentityschema.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED88ED8-A039-4C2A-BE8D-6B51C702F131}|Wedding.csproj|solutionrelative:data\\migrations\\00000000000000_createidentityschema.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED88ED8-A039-4C2A-BE8D-6B51C702F131}|Wedding.csproj|f:\\projects\\grand\\wedding\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2ED88ED8-A039-4C2A-BE8D-6B51C702F131}|Wedding.csproj|solutionrelative:wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED88ED8-A039-4C2A-BE8D-6B51C702F131}|Wedding.csproj|f:\\projects\\grand\\wedding\\wwwroot\\css\\booking.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2ED88ED8-A039-4C2A-BE8D-6B51C702F131}|Wedding.csproj|solutionrelative:wwwroot\\css\\booking.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED88ED8-A039-4C2A-BE8D-6B51C702F131}|Wedding.csproj|f:\\projects\\grand\\wedding\\wwwroot\\js\\booking.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2ED88ED8-A039-4C2A-BE8D-6B51C702F131}|Wedding.csproj|solutionrelative:wwwroot\\js\\booking.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED88ED8-A039-4C2A-BE8D-6B51C702F131}|Wedding.csproj|f:\\projects\\grand\\wedding\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2ED88ED8-A039-4C2A-BE8D-6B51C702F131}|Wedding.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED88ED8-A039-4C2A-BE8D-6B51C702F131}|Wedding.csproj|f:\\projects\\grand\\wedding\\data\\migrations\\20241228212640_ss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED88ED8-A039-4C2A-BE8D-6B51C702F131}|Wedding.csproj|solutionrelative:data\\migrations\\20241228212640_ss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\projects\\grand\\Wedding\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "F:\\projects\\grand\\Wedding\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-28T18:07:16.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "F:\\projects\\grand\\Wedding\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "F:\\projects\\grand\\Wedding\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAAADYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T00:52:05.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\projects\\grand\\Wedding\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\projects\\grand\\Wedding\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAWwIYAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T18:47:23.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "F:\\projects\\grand\\Wedding\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "F:\\projects\\grand\\Wedding\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAwGwAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T00:58:35.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241229001630_dddwSs.cs",
+              "DocumentMoniker": "F:\\projects\\grand\\Wedding\\Data\\Migrations\\20241229001630_dddwSs.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20241229001630_dddwSs.cs",
+              "ToolTip": "F:\\projects\\grand\\Wedding\\Data\\Migrations\\20241229001630_dddwSs.cs",
+              "RelativeToolTip": "Data\\Migrations\\20241229001630_dddwSs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T00:16:30.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "F:\\projects\\grand\\Wedding\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "F:\\projects\\grand\\Wedding\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAmwI4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T00:52:35.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\projects\\grand\\Wedding\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\projects\\grand\\Wedding\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T18:07:18.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "F:\\projects\\grand\\Wedding\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "F:\\projects\\grand\\Wedding\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAUwGcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T01:16:58.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\projects\\grand\\Wedding\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\projects\\grand\\Wedding\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwB8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T18:47:13.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241229010853_dddwSssa.cs",
+              "DocumentMoniker": "F:\\projects\\grand\\Wedding\\Data\\Migrations\\20241229010853_dddwSssa.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20241229010853_dddwSssa.cs",
+              "ToolTip": "F:\\projects\\grand\\Wedding\\Data\\Migrations\\20241229010853_dddwSssa.cs",
+              "RelativeToolTip": "Data\\Migrations\\20241229010853_dddwSssa.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T01:08:53.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "cardcs.cshtml",
+              "DocumentMoniker": "F:\\projects\\grand\\Wedding\\Views\\Wedding\\cardcs.cshtml",
+              "RelativeDocumentMoniker": "Views\\Wedding\\cardcs.cshtml",
+              "ToolTip": "F:\\projects\\grand\\Wedding\\Views\\Wedding\\cardcs.cshtml",
+              "RelativeToolTip": "Views\\Wedding\\cardcs.cshtml",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAmwKwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T18:08:52.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "F:\\projects\\grand\\Wedding\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "F:\\projects\\grand\\Wedding\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-28T23:41:37.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "F:\\projects\\grand\\Wedding\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "F:\\projects\\grand\\Wedding\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T18:29:58.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookWedding.cshtml",
+              "DocumentMoniker": "F:\\projects\\grand\\Wedding\\Views\\Wedding\\BookWedding.cshtml",
+              "RelativeDocumentMoniker": "Views\\Wedding\\BookWedding.cshtml",
+              "ToolTip": "F:\\projects\\grand\\Wedding\\Views\\Wedding\\BookWedding.cshtml",
+              "RelativeToolTip": "Views\\Wedding\\BookWedding.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T18:42:39.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Confirmation.cshtml",
+              "DocumentMoniker": "F:\\projects\\grand\\Wedding\\Views\\Wedding\\Confirmation.cshtml",
+              "RelativeDocumentMoniker": "Views\\Wedding\\Confirmation.cshtml",
+              "ToolTip": "F:\\projects\\grand\\Wedding\\Views\\Wedding\\Confirmation.cshtml",
+              "RelativeToolTip": "Views\\Wedding\\Confirmation.cshtml",
+              "ViewState": "AgIAABYAAACAt7Cr9VAGwAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T22:49:20.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20241228231813_dddwS.cs",
+              "DocumentMoniker": "F:\\projects\\grand\\Wedding\\Data\\Migrations\\20241228231813_dddwS.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20241228231813_dddwS.cs",
+              "ToolTip": "F:\\projects\\grand\\Wedding\\Data\\Migrations\\20241228231813_dddwS.cs",
+              "RelativeToolTip": "Data\\Migrations\\20241228231813_dddwS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T23:18:13.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Confirmationr.cs",
+              "DocumentMoniker": "F:\\projects\\grand\\Wedding\\wwwroot\\css\\Confirmationr.cs",
+              "RelativeDocumentMoniker": "wwwroot\\css\\Confirmationr.cs",
+              "ToolTip": "F:\\projects\\grand\\Wedding\\wwwroot\\css\\Confirmationr.cs",
+              "RelativeToolTip": "wwwroot\\css\\Confirmationr.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T23:22:01.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WeddingController .cs",
+              "DocumentMoniker": "F:\\projects\\grand\\Wedding\\Controllers\\WeddingController .cs",
+              "RelativeDocumentMoniker": "Controllers\\WeddingController .cs",
+              "ToolTip": "F:\\projects\\grand\\Wedding\\Controllers\\WeddingController .cs",
+              "RelativeToolTip": "Controllers\\WeddingController .cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA8wCEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T18:30:27.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WeddingBooking.cs",
+              "DocumentMoniker": "F:\\projects\\grand\\Wedding\\Models\\WeddingBooking.cs",
+              "RelativeDocumentMoniker": "Models\\WeddingBooking.cs",
+              "ToolTip": "F:\\projects\\grand\\Wedding\\Models\\WeddingBooking.cs",
+              "RelativeToolTip": "Models\\WeddingBooking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T18:29:39.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "F:\\projects\\grand\\Wedding\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "F:\\projects\\grand\\Wedding\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T18:52:01.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20241228230107_ddd.cs",
+              "DocumentMoniker": "F:\\projects\\grand\\Wedding\\Data\\Migrations\\20241228230107_ddd.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20241228230107_ddd.cs",
+              "ToolTip": "F:\\projects\\grand\\Wedding\\Data\\Migrations\\20241228230107_ddd.cs",
+              "RelativeToolTip": "Data\\Migrations\\20241228230107_ddd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T23:01:08.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Booking.css",
+              "DocumentMoniker": "F:\\projects\\grand\\Wedding\\wwwroot\\css\\Booking.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\Booking.css",
+              "ToolTip": "F:\\projects\\grand\\Wedding\\wwwroot\\css\\Booking.css",
+              "RelativeToolTip": "wwwroot\\css\\Booking.css",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAAAKEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-28T22:28:11.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20241228212640_ss.Designer.cs",
+              "DocumentMoniker": "F:\\projects\\grand\\Wedding\\Data\\Migrations\\20241228212640_ss.Designer.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20241228212640_ss.Designer.cs",
+              "ToolTip": "F:\\projects\\grand\\Wedding\\Data\\Migrations\\20241228212640_ss.Designer.cs",
+              "RelativeToolTip": "Data\\Migrations\\20241228212640_ss.Designer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T22:47:11.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20241228212750_ssd.Designer.cs",
+              "DocumentMoniker": "F:\\projects\\grand\\Wedding\\Data\\Migrations\\20241228212750_ssd.Designer.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20241228212750_ssd.Designer.cs",
+              "ToolTip": "F:\\projects\\grand\\Wedding\\Data\\Migrations\\20241228212750_ssd.Designer.cs",
+              "RelativeToolTip": "Data\\Migrations\\20241228212750_ssd.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T22:47:35.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "F:\\projects\\grand\\Wedding\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "F:\\projects\\grand\\Wedding\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T18:34:48.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "00000000000000_CreateIdentitySchema.Designer.cs",
+              "DocumentMoniker": "F:\\projects\\grand\\Wedding\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "ToolTip": "F:\\projects\\grand\\Wedding\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "RelativeToolTip": "Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T18:34:53.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "style.css",
+              "DocumentMoniker": "F:\\projects\\grand\\Wedding\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\style.css",
+              "ToolTip": "F:\\projects\\grand\\Wedding\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "wwwroot\\css\\style.css",
+              "ViewState": "AgIAAEcBAAAAAAAAAAAAAEkBAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-28T18:55:18.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Booking.js",
+              "DocumentMoniker": "F:\\projects\\grand\\Wedding\\wwwroot\\js\\Booking.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\Booking.js",
+              "ToolTip": "F:\\projects\\grand\\Wedding\\wwwroot\\js\\Booking.js",
+              "RelativeToolTip": "wwwroot\\js\\Booking.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-28T22:30:36.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20241228212640_ss.cs",
+              "DocumentMoniker": "F:\\projects\\grand\\Wedding\\Data\\Migrations\\20241228212640_ss.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20241228212640_ss.cs",
+              "ToolTip": "F:\\projects\\grand\\Wedding\\Data\\Migrations\\20241228212640_ss.cs",
+              "RelativeToolTip": "Data\\Migrations\\20241228212640_ss.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T21:26:40.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "F:\\projects\\grand\\Wedding\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "F:\\projects\\grand\\Wedding\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T19:40:33.888Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

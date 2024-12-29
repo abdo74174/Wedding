@@ -1,0 +1,403 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event Us</title>
+    <!-- Style Link -->
+    <link rel="stylesheet" href="./style.css">
+
+    <!-- Fontawesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css"
+          integrity="sha512-SzlrxWUlpfuzQ+pcUCosxcglQRNAq/DZjVsC0lE40xsADsfeQoEypE+enwcOiGjk/bSuGGKHEyjSoQ1zVisanQ=="
+          crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <!-- Favicon -->
+    <link rel="shortcut icon" type="image/x-icon" href="./favicon.ico">
+    <style>
+        /* CSS Styling for the Gallery Section */
+        .gallery {
+            padding: 50px 0;
+            text-align: center;
+        }
+
+            .gallery h2 {
+                font-size: 2.5em;
+                margin-bottom: 20px;
+            }
+
+        header {
+            height: 100vh;
+            background: url('./img/photo_3_2024-12-21_16-27-42.jpg') center center / cover no-repeat;
+            position: relative;
+        }
+        .gallery-row {
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            gap: 20px;
+        }
+
+        .gallery-item {
+            width: 30%;
+            position: relative;
+            overflow: hidden; /* Prevent images from overflowing */
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adding a slight shadow */
+        }
+
+            .gallery-item img {
+                width: 100%;
+                height: 250px; /* Fixed height for all images */
+                object-fit: cover; /* Ensures the image fills the box without stretching */
+                border-radius: 10px;
+                transition: transform 0.3s ease;
+            }
+
+            .gallery-item:hover img {
+                transform: scale(1.05);
+            }
+
+            .gallery-item .details {
+                position: absolute;
+                bottom: 10px;
+                left: 10px;
+                background: rgba(0, 0, 0, 0.6);
+                padding: 10px;
+                border-radius: 5px;
+                color: #fff;
+                width: calc(100% - 20px);
+                box-sizing: border-box;
+                text-align: left;
+            }
+
+                .gallery-item .details h3 {
+                    margin: 5px 0;
+                    font-size: 18px;
+                }
+
+                .gallery-item .details p {
+                    font-size: 14px;
+                    margin: 5px 0;
+                }
+
+                .gallery-item .details .price {
+                    font-size: 16px;
+                    font-weight: bold;
+                    margin-top: 5px;
+                }
+
+        /* CSS Styling for the Dropdown and Search */
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: #f9f9f9;
+            min-width: 160px;
+            box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+            z-index: 1;
+        }
+
+            .dropdown-content a {
+                color: black;
+                padding: 12px 16px;
+                text-decoration: none;
+                display: block;
+            }
+
+                .dropdown-content a:hover {
+                    background-color: #f1f1f1;
+                }
+
+        .dropdown:hover .dropdown-content {
+            display: block;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Header Start -->
+    <header>
+        
+        <div id="navbar">
+            <img src="./img/Event.png" alt="Event Logo">
+            <nav role="navigation">
+                <ul class="nav-links">
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#gallery">Gallery</a></li>
+                    <li><a href="#invitations">Invitations</a></li>
+
+
+                    <li>
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            <a asp-area="Identity" asp-page="/Account/Logout" class="btn">Logout</a>
+                        }
+                        else
+                        {
+                            <a asp-area="Identity" asp-page="/Account/Login" class="btn">Login</a>
+                        }
+                    </li>
+
+
+                    <li>
+                        <a asp-area="Identity" asp-page="/Account/Register" class="btn">Register</a>
+                    </li>
+
+
+                    <li><button onclick="window.location.href='guest.html'">Guest List</button></li>
+
+
+                    <!-- Search Button and Input -->
+                    <li class="search-container">
+                        <button class="search-btn" onclick="toggleSearch()"><i class="fa fa-search"></i></button>
+                        <input type="text" class="search-input" placeholder="What are you looking for..." />
+                    </li>
+
+                    <!-- Country/City Dropdown -->
+                    <li class="dropdown">
+                        <button class="dropbtn">Country/City <i class="fa fa-caret-down"></i></button>
+                        <div class="dropdown-content" id="countryDropdown">
+                            <a href="#" onclick="showCities('egypt')">Egypt</a>
+                            <a href="#" onclick="showCities('usa')">USA</a>
+                            <a href="#" onclick="showCities('uk')">UK</a>
+                            <a href="#" onclick="showCities('uae')">UAE</a>
+                        </div>
+                    </li>
+                    <li><a href="card.html"><i class="fa fa-shopping-cart"></i></a></li>
+                </ul>
+            </nav>
+        </div>
+
+        <div class="content">
+            <h1>Making your <span class="primary-text"> Dream Event </span> reality</h1>
+            <p>We specialize in creating unforgettable weddings and events tailored to your unique style</p>
+            <a asp-action="BookWedding" asp-controller="Wedding">BookWeddingL</a>
+            <!-- Inside Index.cshtml -->
+            <!-- Inside Index.cshtml -->
+            @* <a href="@Url.Action("BookWedding", "BookingController1")" class="btn btn-primary">Book your wedding</a> *@
+@*             <a href="@Url.Action("BookWedding", "Wedding")" class="btn btn-primary">Book your wedding</a>
+ *@
+
+
+        </div>
+    </header>
+
+    <main>
+        <!-- About Section Start -->
+        <section id="about">
+            <div class="container">
+                <div class="title">
+                    <h2>Event Us History</h2>
+                    <p>More than 25+ years of experience</p>
+                </div>
+                <div class="about-content">
+                    <div>
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur, quibusdam saepe natus
+                            numquam dolorum aliquam ducimus molestias tenetur? Quaerat, atque blanditiis. Debitis
+                            voluptatem
+                            sequi quibusdam nihil eveniet obcaecati soluta rem.
+                        </p>
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat nesciunt aspernatur earum
+                            sequi
+                            consequatur, quasi iste quod nam esse adipisci neque commodi voluptate deserunt architecto
+                            rerum. Blanditiis labore sed sapiente.
+                        </p>
+                        <a href="#" class="btn btn-secondary">LEARN MORE</a>
+                    </div>
+                    <img src="./img/wed2.jpg" alt="wedding">
+                </div>
+            </div>
+        </section>
+
+        <!-- Gallery Section Start -->
+        <section id="gallery" class="gallery">
+            <h2>Our Gallery</h2>
+            <div class="gallery-row">
+                <!-- Gallery Item 1 -->
+                <div class="gallery-item">
+                    <img src="./img/time.jpg" alt="Gallery Image 1">
+                    <div class="details">
+                        <h3>Wedding Venue 1</h3>
+                        <p>Beautiful venue for a dream wedding.</p>
+                        <span class="price">$5000</span>
+                    </div>
+                </div>
+
+                <!-- Gallery Item 2 -->
+                <div class="gallery-item">
+                    <img src="./img/wed.jpg" alt="Gallery Image 2">
+                    <div class="details">
+                        <h3>Wedding Cake</h3>
+                        <p>Elegant wedding cake with floral design.</p>
+                        <span class="price">$350</span>
+                    </div>
+                </div>
+
+                <!-- Gallery Item 3 -->
+                <div class="gallery-item">
+                    <img src="./img/Private Estate Wedding Venue in Chianti Classico.jpg" alt="Gallery Image 3">
+                    <div class="details">
+                        <h3>Wedding Decorations</h3>
+                        <p>Custom decorations for your special day.</p>
+                        <span class="price">$1200</span>
+                    </div>
+                </div>
+
+                <!-- Gallery Item 4 -->
+                <div class="gallery-item">
+                    <img src="./img/20 Wedding Venues That Are Perfect for a Spring Wedding.jpg" alt="Gallery Image 4">
+                    <div class="details">
+                        <h3>Wedding Dress</h3>
+                        <p>Elegant and timeless wedding dress.</p>
+                        <span class="price">$2000</span>
+                    </div>
+                </div>
+
+                <!-- Gallery Item 5 -->
+                <div class="gallery-item">
+                    <img src="./img/photo_1_2024-12-21_16-27-42.jpg" alt="Gallery Image 5">
+                    <div class="details">
+                        <h3>Bridal Bouquet</h3>
+                        <p>Handmade bouquet for the bride.</p>
+                        <span class="price">$150</span>
+                    </div>
+                </div>
+
+                <!-- Gallery Item 6 -->
+                <div class="gallery-item">
+                    <img src="./img/photo_2_2024-12-21_16-27-42.jpg" alt="Gallery Image 6">
+                    <div class="details">
+                        <h3>Reception Setup</h3>
+                        <p>Luxurious reception setup for your guests.</p>
+                        <span class="price">$3000</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section id="invitations" class="gallery">
+            <h2>Our Wedding Invitations</h2>
+            <div class="gallery-row">
+                <!-- Invitation Item 1 -->
+                <!-- Invitation Item 1 -->
+                <div class="gallery-item">
+                    <img src="./img/Islamic Wedding Invitation, Baraat Invitation Royal Green Gold, Muslim Wedding Invitation, Nikkah Invite Template, Instant Download - Etsy.jpg" alt="Invitation 1">
+                    <div class="details">
+                        <h3>Elegant Invitation</h3>
+                        <p>Beautiful wedding invitation card with custom design.</p>
+                        <span class="price">$100</span>
+                        <!-- Add unique ID -->
+                        <button id="add-to-cart-1" class="add-to-cart" onclick="addToCart('Elegant Invitation', 100)">Add to Cart</button>
+                    </div>
+                </div>
+
+                <!-- Invitation Item 2 -->
+                <div class="gallery-item">
+                    <img src="./img/Luxury Boxed Invitation _ a Decadent Mirror Gold Plexi Wedding Invitation - Engraved - Gold Plexi _ Laser Engraved & Cut _ Yes - 285 gsm Premium Box.jpg" alt="Invitation 2">
+                    <div class="details">
+                        <h3>Classic Invitation</h3>
+                        <p>Classic style invitation with vintage touches.</p>
+                        <span class="price">$80</span>
+                        <!-- Add unique ID -->
+                        <button id="add-to-cart-2" class="add-to-cart" onclick="addToCart('Classic Invitation', 80)">Add to Cart</button>
+                    </div>
+                </div>
+
+
+                <!-- Invitation Item 3 -->
+                <div class="gallery-item">
+                    <img src="./img/Elegant Acrylic Wedding Invitation With Gold Foil Accents, Blush Foil-stamped Luxury Wedding Invitation Foiled, Champagne Unique Invitation - Etsy.jpg" alt="Invitation 3">
+                    <div class="details">
+                        <h3>Floral Invitation</h3>
+                        <p>Floral-themed wedding invitations for a romantic touch.</p>
+                        <span class="price">$120</span>
+                        <button id="add-to-cart-1" class="add-to-cart" onclick="addToCart('Elegant Invitation', 100)">Add to Cart</button>
+
+                    </div>
+                </div>
+
+                <!-- Invitation Item 4 -->
+                <div class="gallery-item">
+                    <img src="./img/rustic floral blush pink clear Acrylic Save the Date Cards CSTD003  for garden wedding ideas.jpg" alt="Invitation 4">
+                    <div class="details">
+                        <h3>Modern Invitation</h3>
+                        <p>Modern minimalist wedding invitations with clean design.</p>
+                        <span class="price">$90</span>
+                        <button id="add-to-cart-1" class="add-to-cart" onclick="addToCart('Elegant Invitation', 100)">Add to Cart</button>
+
+                    </div>
+                </div>
+
+                <!-- Invitation Item 5 -->
+                <div class="gallery-item">
+                    <img src="./img/Retro Bar Birthday Invitations.jpg" alt="Invitation 5">
+                    <div class="details">
+                        <h3>Luxury Invitation</h3>
+                        <p>Luxury embossed wedding invitation with gold accents.</p>
+                        <span class="price">$150</span>
+                        <button id="add-to-cart-1" class="add-to-cart" onclick="addToCart('Elegant Invitation', 100)">Add to Cart</button>
+
+                    </div>
+                </div>
+
+                <!-- Invitation Item 6 -->
+                <div class="gallery-item">
+                    <img src="./img/Conjunto de ilustração floral em aquarela coleção de molduras de folhas de eucalipto verde _ Vetor Premium.jpg" alt="Invitation 6">
+                    <div class="details">
+                        <h3>Rustic Invitation</h3>
+                        <p>Rustic wedding invitation with natural elements.</p>
+                        <span class="price">$110</span>
+                        <button id="add-to-cart-1" class="add-to-cart" onclick="addToCart('Elegant Invitation', 100)">Add to Cart</button>
+
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+
+
+    </main>
+
+    <script src="script.js"></script>
+
+    <script>
+        // Toggle search input field
+        function toggleSearch() {
+            const searchInput = document.querySelector('.search-input');
+            searchInput.classList.toggle('active');
+        }
+
+        // Show Cities based on selected country
+        function showCities(country) {
+            const cities = {
+                egypt: ['Cairo', 'Alexandria', 'Giza', 'Luxor', 'Aswan'],
+                usa: ['New York', 'Los Angeles', 'Chicago', 'Miami', 'San Francisco'],
+                uk: ['London', 'Manchester', 'Liverpool', 'Birmingham'],
+                uae: ['Dubai', 'Abu Dhabi', 'Sharjah', 'Ajman', 'Fujairah']
+            };
+
+            let citiesList = cities[country] || [];
+            let dropdownContent = document.getElementById('countryDropdown');
+
+            // Clear existing dropdown items
+            dropdownContent.innerHTML = `<a href="#" onclick="showCities('egypt')">Egypt</a>
+                                                 <a href="#" onclick="showCities('usa')">USA</a>
+                                                 <a href="#" onclick="showCities('uk')">UK</a>
+                                                 <a href="#" onclick="showCities('uae')">UAE</a>`;
+
+            // Add new cities to the dropdown
+            citiesList.forEach(city => {
+                let cityElement = document.createElement('a');
+                cityElement.textContent = city;
+                dropdownContent.appendChild(cityElement);
+            });
+        }
+    </script>
+
+</body>
+
+</html>

@@ -1,0 +1,61 @@
+@{
+    Layout = null;  // If you don't want to use a layout page, or specify your layout
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Book Your Wedding</title>
+    <link rel="stylesheet" href="~/css/Booking.css"> <!-- Link to external CSS file -->
+    <script src="~/js/Booking.js" defer></script> <!-- Link to external JS file -->
+</head>
+
+<body>
+    <header>
+        <div id="navbar">
+            <img src="~/img/Event.png" alt="Event Logo">
+            <nav>
+                <ul class="nav-links">
+                    <li><a href="wedding.html" class="home-btn">Home</a></li>
+                    <!-- Search Icon and Input -->
+                    <li class="search-container">
+                        <button class="search-btn" onclick="toggleSearch()">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        <input type="text" class="search-input" placeholder="What are you looking for..." id="searchInput">
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section id="booking-form">
+        <div class="form-container">
+            <h2>Book Your Wedding</h2>
+
+            <!-- Regular HTML Form that POSTs to the Wedding/BookWedding action -->
+            <form action="/Wedding/BookWedding" method="post">
+                <label for="name">Full Name</label>
+                <input type="text" id="name" name="Name" placeholder="Enter your full name" required>
+
+                <label for="phone">Phone Number</label>
+                <input type="tel" id="phone" name="Phone" placeholder="Enter your phone number" required>
+
+                <label for="date">Wedding Date</label>
+                <input type="date" id="date" name="WeddingDate" required>
+
+                <label for="location">Wedding Location</label>
+                <input type="text" id="location" name="Location" placeholder="Enter wedding location" required>
+
+                <button type="submit" class="submit-btn">Submit</button>
+            </form>
+        </div>
+    </section>
+
+</body>
+
+</html>

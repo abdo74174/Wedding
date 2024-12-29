@@ -1,0 +1,369 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Wedding.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Wedding.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\css\\Booking.css",
+      "PackagePath": "staticwebassets\\css\\Booking.css"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\css\\Confirmationr.cs",
+      "PackagePath": "staticwebassets\\css\\Confirmationr.cs"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\img\\20 Wedding Venues That Are Perfect for a Spring Wedding.jpg",
+      "PackagePath": "staticwebassets\\img\\20 Wedding Venues That Are Perfect for a Spring Wedding.jpg"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\img\\Blue Botanical Border Invitations.jpg",
+      "PackagePath": "staticwebassets\\img\\Blue Botanical Border Invitations.jpg"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\img\\Conjunto de ilustração floral em aquarela coleção de molduras de folhas de eucalipto verde _ Vetor Premium.jpg",
+      "PackagePath": "staticwebassets\\img\\Conjunto de ilustração floral em aquarela coleção de molduras de folhas de eucalipto verde _ Vetor Premium.jpg"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\img\\Elegant Acrylic Wedding Invitation With Gold Foil Accents, Blush Foil-stamped Luxury Wedding Invitation Foiled, Champagne Unique Invitation - Etsy.jpg",
+      "PackagePath": "staticwebassets\\img\\Elegant Acrylic Wedding Invitation With Gold Foil Accents, Blush Foil-stamped Luxury Wedding Invitation Foiled, Champagne Unique Invitation - Etsy.jpg"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\img\\Event.png",
+      "PackagePath": "staticwebassets\\img\\Event.png"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\img\\Islamic Wedding Invitation, Baraat Invitation Royal Green Gold, Muslim Wedding Invitation, Nikkah Invite Template, Instant Download - Etsy.jpg",
+      "PackagePath": "staticwebassets\\img\\Islamic Wedding Invitation, Baraat Invitation Royal Green Gold, Muslim Wedding Invitation, Nikkah Invite Template, Instant Download - Etsy.jpg"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\img\\Luxury Boxed Invitation _ a Decadent Mirror Gold Plexi Wedding Invitation - Engraved - Gold Plexi _ Laser Engraved & Cut _ Yes - 285 gsm Premium Box.jpg",
+      "PackagePath": "staticwebassets\\img\\Luxury Boxed Invitation _ a Decadent Mirror Gold Plexi Wedding Invitation - Engraved - Gold Plexi _ Laser Engraved & Cut _ Yes - 285 gsm Premium Box.jpg"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\img\\Private Estate Wedding Venue in Chianti Classico.jpg",
+      "PackagePath": "staticwebassets\\img\\Private Estate Wedding Venue in Chianti Classico.jpg"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\img\\Rayhahabib22_ I will make customized wedding invitation card with couple carto.jpg",
+      "PackagePath": "staticwebassets\\img\\Rayhahabib22_ I will make customized wedding invitation card with couple carto.jpg"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\img\\Retro Bar Birthday Invitations.jpg",
+      "PackagePath": "staticwebassets\\img\\Retro Bar Birthday Invitations.jpg"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\img\\Rustic Floral Frame Acrylic Wedding Invites With Printed Vellum Pocket SAPV001.jpg",
+      "PackagePath": "staticwebassets\\img\\Rustic Floral Frame Acrylic Wedding Invites With Printed Vellum Pocket SAPV001.jpg"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\img\\UNPERSONALISED SAMPLE LISTING Sage Green and Gold Gypsophila Floral Invitation - Etsy UK.jpg",
+      "PackagePath": "staticwebassets\\img\\UNPERSONALISED SAMPLE LISTING Sage Green and Gold Gypsophila Floral Invitation - Etsy UK.jpg"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\img\\Wedding Invitation, Acrylic Invitations, Clear Acrylic Invitations, Foil Invitations, Plexiglass Invitations, Bridal Shower, Gold Foil Print - Etsy Australia.jpg",
+      "PackagePath": "staticwebassets\\img\\Wedding Invitation, Acrylic Invitations, Clear Acrylic Invitations, Foil Invitations, Plexiglass Invitations, Bridal Shower, Gold Foil Print - Etsy Australia.jpg"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\img\\photo_1_2024-12-21_16-27-42.jpg",
+      "PackagePath": "staticwebassets\\img\\photo_1_2024-12-21_16-27-42.jpg"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\img\\photo_2_2024-12-21_16-27-42.jpg",
+      "PackagePath": "staticwebassets\\img\\photo_2_2024-12-21_16-27-42.jpg"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\img\\photo_3_2024-12-21_16-27-42.jpg",
+      "PackagePath": "staticwebassets\\img\\photo_3_2024-12-21_16-27-42.jpg"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\img\\rustic floral blush pink clear Acrylic Save the Date Cards CSTD003  for garden wedding ideas.jpg",
+      "PackagePath": "staticwebassets\\img\\rustic floral blush pink clear Acrylic Save the Date Cards CSTD003  for garden wedding ideas.jpg"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\img\\time.jpg",
+      "PackagePath": "staticwebassets\\img\\time.jpg"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\img\\wed.jpg",
+      "PackagePath": "staticwebassets\\img\\wed.jpg"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\img\\wed2.jpg",
+      "PackagePath": "staticwebassets\\img\\wed2.jpg"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\img\\\uD83E\uDEB7.jpg",
+      "PackagePath": "staticwebassets\\img\\\uD83E\uDEB7.jpg"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\js\\Booking.js",
+      "PackagePath": "staticwebassets\\js\\Booking.js"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\projects\\grand\\Wedding\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Wedding.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Wedding.props",
+      "PackagePath": "build\\Wedding.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Wedding.props",
+      "PackagePath": "buildMultiTargeting\\Wedding.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Wedding.props",
+      "PackagePath": "buildTransitive\\Wedding.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

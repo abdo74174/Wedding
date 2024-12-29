@@ -1,0 +1,37 @@
+﻿@{
+    Layout = null;  // Define Layout if necessary or remove this if the layout is always used
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"] - Event Us</title>
+    <link rel="stylesheet" href="~/css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css"
+          integrity="sha512-SzlrxWUlpfuzQ+pcUCosxcglQRNAq/DZjVsC0lE40xsADsfeQoEypE+enwcOiGjk/bSuGGKHEyjSoQ1zVisanQ=="
+          crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="shortcut icon" type="image/x-icon" href="~/favicon.ico">
+</head>
+
+<body>
+
+
+    <main>
+        @RenderBody()  <!-- Render dynamic content of the page -->
+    </main>
+
+    <!-- Footer section -->
+    <footer>
+        <p>&copy; 2024 Event Us. All rights reserved.</p>
+    </footer>
+
+    <!-- Render scripts if provided by the page -->
+    @RenderSection("Scripts", false)  <!-- Optional: renders section if defined by a view -->
+
+    <script src="~/js/script.js"></script>
+</body>
+
+</html>
